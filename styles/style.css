@@ -1,7 +1,7 @@
-body { font-size: 90px; }
+body { font-size: 40px; }
 
 th, td {
-padding: 15px;
+padding: 5%;
 padding-left: 5%;
 text-align: center;
 }
