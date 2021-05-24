@@ -1,4 +1,4 @@
-body { font-size: 120%; }
+body { font-size: 20px; }
 
 th, td {
 padding: 3%;
@@ -8,7 +8,7 @@ text-align: center;
 
 #c03 {
 text-align: left;
-font-size: 120%;
+font-size: 20px;
 }
 
 table { border-collapse: collapse; }
