@@ -1,7 +1,16 @@
-th { 
-	color: red;
+body { font-size: 20px; }
+
+th, td {
+padding: 15px;
+padding-left: 5%;
+text-align: center;
 }
-td {
-	font-size: 20px;
-	color: blue;
+
+#c03 {
+text-align: left;
+width: 50%;
 }
+
+table { border-collapse: collapse; }
+tr:nth-child(odd) { border: solid thin; }
+tr:nth-child(even) { border: solid thin; }
