@@ -1,14 +1,14 @@
-body { font-size: 35px; }
+body { font-size: 30px; }
 
 th, td {
 padding: 5%;
-padding-left: 15px;
+padding-left: 20px;
 text-align: center;
 }
 
 #c03 {
 text-align: left;
-font-size: 35px;
+font-size: 30px;
 }
 
 table { border-collapse: collapse; }
