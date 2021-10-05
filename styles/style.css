@@ -24,3 +24,7 @@ content-position: center
 .box{
 display: inline; 
 }
+
+.cover{
+object-fit: cover
+}
