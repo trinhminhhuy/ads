@@ -11,4 +11,4 @@ A list of wanted shikigami sorted in rare type. Easily identify by clear avatar 
 This web page will suggest the easiest mode that you can play effectively to get the most shikigami counts (Vietnamese included).
 
 <b>Shiki highlight video</b><br>
-Video introducing shikigami highlighted at the bottom of this webpage.
+Video introducing shikigami highlighted at the bottom of this web page.
